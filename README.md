@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Vladimír Šimek
+- 👀 I’m interested in web development and back-end app programming
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on interesting projects
+- 📫 How to reach me: email me on vladimirsimek.ofc@gmail.com
